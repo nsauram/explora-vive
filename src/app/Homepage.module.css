@@ -1,0 +1,32 @@
+.pin-container {
+    position: relative;
+}
+
+.pin {
+    position: absolute;
+}
+
+.destinations {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    display: none;
+}
+
+.destinations:hover {
+    display: block;
+}
+
+.destination {}
+
+
+.featuredPosts {
+    /* Styles for the featured posts section */
+    margin-top: 20px;
+}
+
+.about {
+    /* Styles for the about section */
+    margin-top: 20px;
+}

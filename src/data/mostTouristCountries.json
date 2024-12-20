@@ -1,0 +1,223 @@
+[
+    {
+      "pais": "España",
+      "codigoISO": "ES",
+      "capital": "Madrid",
+      "continente": "Europa",
+      "visitantesAnuales": 83.7, 
+      "atractivos": ["Madrid", "Barcelona", "Andalucía"],
+      "idioma": "Español",
+      "moneda": "Euro",
+      "imagen": "https://example.com/espana.jpg"
+    },
+    {
+      "pais": "Francia",
+      "codigoISO": "FR",
+      "capital": "París",
+      "continente": "Europa",
+      "visitantesAnuales": 90.0, 
+      "atractivos": ["París", "Niza", "Burdeos"],
+      "idioma": "Francés",
+      "moneda": "Euro",
+      "imagen": "https://example.com/francia.jpg"
+    },
+    {
+      "pais": "Italia",
+      "codigoISO": "IT",
+      "capital": "Roma",
+      "continente": "Europa",
+      "visitantesAnuales": 65.3, 
+      "atractivos": ["Roma", "Venecia", "Florencia"],
+      "idioma": "Italiano",
+      "moneda": "Euro",
+      "imagen": "https://example.com/italia.jpg"
+    },
+    {
+      "pais": "Estados Unidos",
+      "codigoISO": "US",
+      "capital": "Washington D.C.",
+      "continente": "América del Norte",
+      "visitantesAnuales": 83.9, 
+      "atractivos": ["Nueva York", "Los Ángeles", "Las Vegas"],
+      "idioma": "Inglés",
+      "moneda": "Dólar",
+      "imagen": "https://example.com/estados_unidos.jpg"
+    },
+    {
+      "pais": "China",
+      "codigoISO": "CN",
+      "capital": "Pekín",
+      "continente": "Asia",
+      "visitantesAnuales": 65.7, 
+      "atractivos": ["Gran Muralla", "Ciudad Prohibida", "Shanghái"],
+      "idioma": "Mandarín",
+      "moneda": "Yuan",
+      "imagen": "https://example.com/china.jpg"
+    },
+    {
+      "pais": "México",
+      "codigoISO": "MX",
+      "capital": "Ciudad de México",
+      "continente": "América del Norte",
+      "visitantesAnuales": 45.0, 
+      "atractivos": "Cancún, Chichén Itzá, Ciudad de México",
+      "idioma": "Español",
+      "moneda": "Peso mexicano",
+      "imagen": "https://example.com/mexico.jpg"
+    },
+    {
+      "pais": "Turquía",
+      "codigoISO": "TR",
+      "capital": "Ankara",
+      "continente": "Asia",
+      "visitantesAnuales": 51.2, 
+      "atractivos": "Estambul, Capadocia, Antalya",
+      "idioma": "Turco",
+      "moneda": "Lira turca",
+      "imagen": "https://example.com/turquia.jpg"
+    },
+    {
+      "pais": "Alemania",
+      "codigoISO": "DE",
+      "capital": "Berlín",
+      "continente": "Europa",
+      "visitantesAnuales": 41.1, 
+      "atractivos": "Berlín, Múnich, Colonia",
+      "idioma": "Alemán",
+      "moneda": "Euro",
+      "imagen": "https://example.com/alemania.jpg"
+    },
+    {
+      "pais": "Reino Unido",
+      "codigoISO": "GB",
+      "capital": "Londres",
+      "continente": "Europa",
+      "visitantesAnuales": 39.9, 
+      "atractivos": "Londres, Edimburgo, Manchester",
+      "idioma": "Inglés",
+      "moneda": "Libra esterlina",
+      "imagen": "https://example.com/reino_unido.jpg"
+    },
+    {
+      "pais": "Japón",
+      "codigoISO": "JP",
+      "capital": "Tokio",
+      "continente": "Asia",
+      "visitantesAnuales": 31.9, 
+      "atractivos": "Tokio, Kioto, Osaka",
+      "idioma": "Japonés",
+      "moneda": "Yen",
+      "imagen": "https://example.com/japon.jpg"
+    },
+    {
+        "pais": "Japón",
+        "codigoISO": "JP",
+        "capital": "Tokio",
+        "continente": "Asia",
+        "visitantesAnuales": 31.9, 
+        "atractivos": ["Tokio", "Kioto", "Osaka"],
+        "idioma": "Japonés",
+        "moneda": "Yen",
+        "imagen": "https://example.com/japon.jpg"
+      },
+      {
+        "pais": "Tailandia",
+        "codigoISO": "TH",
+        "capital": "Bangkok",
+        "continente": "Asia",
+        "visitantesAnuales": 28.1, 
+        "atractivos": "Bangkok, Phuket, Chiang Mai",
+        "idioma": "Tailandés",
+        "moneda": "Baht",
+        "imagen": "https://example.com/tailandia.jpg"
+      },
+      {
+        "pais": "Australia",
+        "codigoISO": "AU",
+        "capital": "Canberra",
+        "continente": "Oceanía",
+        "visitantesAnuales": 7.19, 
+        "atractivos": "Gran Barrera de Coral, Sydney, Uluru",
+        "idioma": "Inglés",
+        "moneda": "Dólar australiano",
+        "imagen": "https://example.com/australia.jpg"
+      },
+      {
+        "pais": "Canadá",
+        "codigoISO": "CA",
+        "capital": "Ottawa",
+        "continente": "América del Norte",
+        "visitantesAnuales": 18.34, 
+        "atractivos": "Toronto, Vancouver, Banff",
+        "idioma": "Inglés, Francés",
+        "moneda": "Dólar canadiense",
+        "imagen": "https://example.com/canada.jpg"
+      },
+      {
+        "pais": "India",
+        "codigoISO": "IN",
+        "capital": "Nueva Delhi",
+        "continente": "Asia",
+        "visitantesAnuales": 33.3, 
+        "atractivos": "Taj Mahal, Goa, Kerala",
+        "idioma": "Hindi, Inglés",
+        "moneda": "Rupia",
+        "imagen": "https://example.com/india.jpg"
+      },
+      {
+        "pais": "Brasil",
+        "codigoISO": "BR",
+        "capital": "Brasilia",
+        "continente": "América del Sur",
+        "visitantesAnuales": 5.91, 
+        "atractivos": "Río de Janeiro, Amazonas, Foz de Iguazú",
+        "idioma": "Portugués",
+        "moneda": "Real",
+        "imagen": "https://example.com/brasil.jpg"
+      },
+      {
+        "pais": "Argentina",
+        "codigoISO": "AR",
+        "capital": "Buenos Aires",
+        "continente": "América del Sur",
+        "visitantesAnuales": 7.29, 
+        "atractivos": "Buenos Aires, Iguazú, Patagonia",
+        "idioma": "Español",
+        "moneda": "Peso argentino",
+        "imagen": "https://example.com/argentina.jpg"
+      },
+      {
+        "pais": "Egipto",
+        "codigoISO": "EG",
+        "capital": "El Cairo",
+        "continente": "África",
+        "visitantesAnuales": 14.91, 
+        "atractivos": "Pirámides de Giza, Luxor, Mar Rojo",
+        "idioma": "Árabe",
+        "moneda": "Libra egipcia",
+        "imagen": "https://example.com/egipto.jpg"
+      },
+      {
+        "pais": "Sudáfrica",
+        "codigoISO": "ZA",
+        "capital": "Pretoria",
+        "continente": "África",
+        "visitantesAnuales": 8.48, 
+        "atractivos": "Ciudad del Cabo, Parque Nacional Kruger",
+        "idioma": "Inglés, Zulú, Xhosa",
+        "moneda": "Rand",
+        "imagen": "https://example.com/sudafrica.jpg"
+      },
+      {
+        "pais": "Nueva Zelanda",
+        "codigoISO": "NZ",
+        "capital": "Wellington",
+        "continente": "Oceanía",
+        "visitantesAnuales": 3.94, 
+        "atractivos": "Rotorua, Milford Sound, Queenstown",
+        "idioma": "Inglés",
+        "moneda": "Dólar neozelandés",
+        "imagen": "https://example.com/nueva_zelanda.jpg"
+      }
+    
+]
