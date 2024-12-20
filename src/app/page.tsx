@@ -61,7 +61,7 @@ export default function Home() {
           <div className="container mx-auto px-4">
             <div className="grid grid-rows-3 grid-flow-col gap-4">
               {popular.map((destination) => (
-                <Link href={destination.link} key={destination.id} className="p-4 rounded-lg bg-gray-100 hover:bg-blue-200 hover:scale-105 transition-transform duration-300">
+                <Link href={`/destinos/${destination.pais.toLowerCase()}`} key={destination.id} className="p-4 rounded-lg bg-gray-100 hover:bg-blue-200 hover:scale-105 transition-transform duration-300">
                   {destination.pais}
                 </Link>
               ))}
